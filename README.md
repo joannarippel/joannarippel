@@ -6,7 +6,6 @@
 - 🌱 I'm currently learning from [Coursera](https://www.coursera.org/) and [Udacity](https://https://www.udacity.com/google/).
 - 🤟 I love Python, Databases, Data Analysis & Linux
 - ⚡️ Fast learner.
-- 💻 I'm looking for a **job** or **internship**, in **Databases** or **Data Analysis**  domain.
 
 
 📫 How to reach me
