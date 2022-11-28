@@ -3,8 +3,8 @@
 ## Hello 👋 
 
 - 🎓 Software Developer with a psychology background & graduate of  **Master of Science/Software Development** from the **IT University of Copenhagen**.
-- 🌱 I'm currently learning from [Coursera](https://www.coursera.org/) and [Udacity](https://https://www.udacity.com/google/).
-- 🤟 I love Python, Databases, Data Analysis & Linux
+- 🌱 Currently learning from [Coursera](https://www.coursera.org/) and [Udacity](https://https://www.udacity.com/google/).
+- 🤟 I love Python, Databases & Linux
 - ⚡️ Fast learner.
 
 
