@@ -4,7 +4,7 @@
 
 - 🎓 Software Developer with a psychology background & graduate of  **Master of Science/Software Development** from the **IT University of Copenhagen**.
 - 🌱 
-- 🤟 Passionate about web development, Python & Linux
+- 🤟 Passionate about Web Development, Python & Linux
 - ⚡️ Fast learner.
 
 
